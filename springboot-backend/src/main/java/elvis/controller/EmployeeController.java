@@ -1,4 +1,4 @@
-package net.javaguides.springboot.controller;
+package elvis.controller;
 
 import java.util.HashMap;
 import java.util.List;
