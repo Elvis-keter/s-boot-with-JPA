@@ -1,4 +1,4 @@
-package net.javaguides.springboot.model;
+package elvis.model;
 
 import jakarta.persistence.*;
 
